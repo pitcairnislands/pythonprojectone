@@ -1,1 +1,4 @@
 # pythonprojectone
+dsaodsaodsaododsaok
+afasdf
+mimimomo
