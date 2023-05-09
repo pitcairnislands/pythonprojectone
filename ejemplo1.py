@@ -1,6 +1,6 @@
 print('jasjjas')
 print('cola')
 print('alondra me la suda')
-print('bieja pendeja')
+print('biejo pendejo')
 for n in range(8):
     print('gatitos')
